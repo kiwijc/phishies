@@ -5,8 +5,6 @@
 //    / .___/_/ /_/_/____/_/ /_/ 
 //   /_/            
 //
-// https://git.supernets.org/hgw/phish
-// Aquarium generator - ANOTHER SUPERNETS BANGER
 // Inspired by https://botsin.space/@EmojiAquarium
 
 // Emoji fish
