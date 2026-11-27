@@ -1,13 +1,13 @@
 {
   "name": "phishies",
-  "version": "1.2.1",
+  "version": "1.3",
   "description": "Node.js aquarium generator module",
   "main": "phish.js",
   "repository": {
     "type": "git",
-    "url": "https://git.supernets.org/hgw/phishies.git"
+    "url": "https://github.com/kiwijc/phishies.git"
   },
-  "author": "hgw",
-  "license": "ISC",
+  "author": "kiwijc",
+  "license": "MIT+NOSLOP",
   "dependencies": {}
 }
